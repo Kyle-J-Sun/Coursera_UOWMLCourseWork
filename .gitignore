@@ -245,6 +245,6 @@ dkms.conf
 .DS_Store
 *.save
 
-/ML_Case_Study/Week5/song_data.csv
-/ML_Case_Study/Week6/image_test_data.csv
-/ML_Cluster_Retrieval/Week2/people_wiki.csv
+ML_Case_Study/Week5/song_data.csv
+ML_Case_Study/Week6/image_test_data.csv
+ML_Cluster_Retrieval/Week2/people_wiki.csv
